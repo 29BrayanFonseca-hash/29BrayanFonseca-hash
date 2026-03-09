@@ -54,17 +54,6 @@ Desarrollo de programas fundamentales para la lógica de programación:
 - ⏳ Paciencia
 - 📚 Disciplina
 
----
-
-### 📫 Contacto
-
-¡Estoy abierto a oportunidades y colaboraciones!
-
-- **GitHub:** [TuUsuarioDeGitHub](https://github.com/TuUsuarioDeGitHub)
-- **Email:** [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com)
-- **Ubicación:** Bucaramanga, Colombia
-
----
 
 <p align="center">
   ¡Gracias por visitar mi perfil! 🚀
