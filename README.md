@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desarrollador de Software en Formación
 
-Especialista en tecnología y por el desarrollo de software. Domino lenguajes como **Python**, **HTML** y **CSS**, y siempre estoy buscando oportunidades para poner en práctica mis conocimientos en proyectos desafiantes. Mi objetivo es crecer profesionalmente dentro del ámbito tecnológico.
+Desarrollador Junior  y tecnico en sistemas teleinformaticos . Domina lenguajes como **Python**, **HTML** y **CSS**, y siempre estoy buscando oportunidades para poner en práctica mis conocimientos en proyectos desafiantes. Mi objetivo es crecer profesionalmente dentro del ámbito tecnológico.
 
 ---
 
